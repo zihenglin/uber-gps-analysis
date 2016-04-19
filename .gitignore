@@ -1,2 +1,4 @@
 *.pyc
 .ipynb_checkpoints/
+UberApi/tokens.csv
+.DS_Store
